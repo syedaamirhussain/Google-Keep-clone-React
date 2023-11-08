@@ -1,0 +1,19 @@
+.NavBar{
+    height: 8vh;
+    padding: 8px;
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+    border-bottom: 2px solid #85868836;
+}
+.Lower-page{
+    height: 92vh;
+    width: 100%;
+    display: grid;
+    grid-template-columns:1fr 5fr ;
+
+}
+.body-part{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
